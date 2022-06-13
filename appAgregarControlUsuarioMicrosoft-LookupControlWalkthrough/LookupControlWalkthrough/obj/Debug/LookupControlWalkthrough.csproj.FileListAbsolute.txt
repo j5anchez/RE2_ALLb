@@ -1,0 +1,11 @@
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\obj\Debug\LookupControlWalkthrough.csproj.AssemblyReference.cache
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\obj\Debug\LookupControlWalkthrough.Form1.resources
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\obj\Debug\CS.LookupBox.resources
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\obj\Debug\LookupControlWalkthrough.Properties.Resources.resources
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\obj\Debug\LookupControlWalkthrough.csproj.GenerateResource.cache
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\obj\Debug\LookupControlWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\bin\Debug\LookupControlWalkthrough.exe.config
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\bin\Debug\LookupControlWalkthrough.exe
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\bin\Debug\LookupControlWalkthrough.pdb
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\obj\Debug\LookupControlWalkthrough.exe
+C:\Users\34603\source\repos\LookupControlWalkthrough\LookupControlWalkthrough\obj\Debug\LookupControlWalkthrough.pdb

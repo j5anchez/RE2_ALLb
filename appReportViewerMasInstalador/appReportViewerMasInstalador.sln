@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appReportViewerMasInstalador", "appReportViewerMasInstalador\appReportViewerMasInstalador.csproj", "{0DB884BF-C06C-47D4-A14A-DFC522E77111}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{B5073366-B93B-4C4E-A1F9-944F02856FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DB884BF-C06C-47D4-A14A-DFC522E77111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB884BF-C06C-47D4-A14A-DFC522E77111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB884BF-C06C-47D4-A14A-DFC522E77111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB884BF-C06C-47D4-A14A-DFC522E77111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5073366-B93B-4C4E-A1F9-944F02856FEA}.Debug|Any CPU.ActiveCfg = Debug
+		{B5073366-B93B-4C4E-A1F9-944F02856FEA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8DF8C7-0D56-43EE-9AF3-1D725C38EA41}
+	EndGlobalSection
+EndGlobal

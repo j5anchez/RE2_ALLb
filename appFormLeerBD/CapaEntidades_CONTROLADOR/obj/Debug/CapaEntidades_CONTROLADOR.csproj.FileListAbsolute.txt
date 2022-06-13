@@ -1,0 +1,11 @@
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaEntidades_CONTROLADOR\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaEntidades_CONTROLADOR\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaEntidades_CONTROLADOR\obj\Debug\CapaEntidades_CONTROLADOR.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaEntidades_CONTROLADOR\obj\Debug\CapaEntidades_CONTROLADOR.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaEntidades_CONTROLADOR\obj\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaEntidades_CONTROLADOR\obj\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\Nueva carpeta\DI04\CapaEntidades_CONTROLADOR\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\Nueva carpeta\DI04\CapaEntidades_CONTROLADOR\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\Nueva carpeta\DI04\CapaEntidades_CONTROLADOR\obj\Debug\CapaEntidades_CONTROLADOR.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\Nueva carpeta\DI04\CapaEntidades_CONTROLADOR\obj\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\Nueva carpeta\DI04\CapaEntidades_CONTROLADOR\obj\Debug\CapaEntidades_CONTROLADOR.pdb

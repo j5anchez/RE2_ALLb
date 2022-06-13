@@ -1,0 +1,6 @@
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaEntidades_CONTROLADOR\bin\x64\Release\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaEntidades_CONTROLADOR\bin\x64\Release\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaEntidades_CONTROLADOR\obj\x64\Release\CapaEntidades_CONTROLADOR.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaEntidades_CONTROLADOR\obj\x64\Release\CapaEntidades_CONTROLADOR.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaEntidades_CONTROLADOR\obj\x64\Release\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaEntidades_CONTROLADOR\obj\x64\Release\CapaEntidades_CONTROLADOR.pdb

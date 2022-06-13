@@ -1,0 +1,72 @@
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\FINAL\enviar\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI04_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI04_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI04_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI04_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI04_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI04_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI04_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI04_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI04_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\rememberT4\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\PaEnviar\24-4-definitivo\sanchez_romero_joseba_DI05_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\PaEnviar\24-4-definitivo\sanchez_romero_joseba_DI05_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\PaEnviar\24-4-definitivo\sanchez_romero_joseba_DI05_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\PaEnviar\24-4-definitivo\sanchez_romero_joseba_DI05_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\PaEnviar\24-4-definitivo\sanchez_romero_joseba_DI05_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\PaEnviar\24-4-definitivo\sanchez_romero_joseba_DI05_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\PaEnviar\24-4-definitivo\sanchez_romero_joseba_DI05_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\PaEnviar\24-4-definitivo\sanchez_romero_joseba_DI05_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T5\TaEv\PaEnviar\24-4-definitivo\sanchez_romero_joseba_DI05_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\sanchez_romero_joseba_DI05_ENVIADO\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\sanchez_romero_joseba_DI05_ENVIADO\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\sanchez_romero_joseba_DI05_ENVIADO\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\sanchez_romero_joseba_DI05_ENVIADO\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\sanchez_romero_joseba_DI05_ENVIADO\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\sanchez_romero_joseba_DI05_ENVIADO\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\sanchez_romero_joseba_DI05_ENVIADO\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\sanchez_romero_joseba_DI05_ENVIADO\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\sanchez_romero_joseba_DI05_ENVIADO\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\borrar_archivos_basura_y_pruebas\DI06_TareaEvaluativa\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\borrar_archivos_basura_y_pruebas\DI06_TareaEvaluativa\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\borrar_archivos_basura_y_pruebas\DI06_TareaEvaluativa\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\borrar_archivos_basura_y_pruebas\DI06_TareaEvaluativa\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\borrar_archivos_basura_y_pruebas\DI06_TareaEvaluativa\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\borrar_archivos_basura_y_pruebas\DI06_TareaEvaluativa\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\borrar_archivos_basura_y_pruebas\DI06_TareaEvaluativa\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\borrar_archivos_basura_y_pruebas\DI06_TareaEvaluativa\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\ud anterior\borrar_archivos_basura_y_pruebas\DI06_TareaEvaluativa\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI05_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaDatos_MODELO.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaDatos_MODELO\bin\Debug\CapaEntidades_CONTROLADOR.pdb
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.dll
+C:\Users\34603\Desktop\trabajosDAM\_DI\T6\TaEv\DI06_TareaEvaluativa01\sanchez_romero_joseba_DI06_TareaEvaluativa01\CapaDatos_MODELO\obj\Debug\CapaDatos_MODELO.pdb

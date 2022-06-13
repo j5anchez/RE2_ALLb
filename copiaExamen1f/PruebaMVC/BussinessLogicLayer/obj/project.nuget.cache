@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k9tlE5cpMsPUSpiTyUG/YukWibQFeBSjQ1hGilvMbJSGtaQKvqJajA8U/qKv4ydspFtgmSB3LetczEEr8kgsOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\34603\\Desktop\\examen22\\DI\\examen1f\\pruebaMVc\\PruebaMVC\\BussinessLogicLayer\\BussinessLogicLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
